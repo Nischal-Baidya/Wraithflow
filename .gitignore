@@ -1,0 +1,6 @@
+# Never commit private deployment or local development values.
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store

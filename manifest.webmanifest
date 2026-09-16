@@ -1,0 +1,10 @@
+{
+  "name": "WraithFlow — Your Personal Life Tracker",
+  "short_name": "WraithFlow",
+  "description": "A private offline-first life tracker.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#090a0f",
+  "icons": [{ "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
